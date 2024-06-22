@@ -1,0 +1,56 @@
+olma
+shaftoli
+print(mevalar[3])
+o'rik
+print(mevalar[-1])
+o'rik
+OLMA
+Olma
+3000
+['olma', 'anjir', 'shaftoli', "o'rik"]
+ 
+
+
+
+
+
+
+
+
+anor
+uzum
+['anor', 'anjir', 'shaftoli', 'uzum', 'tarvuz', "o'rik"]
+['banan', 'anor', 'anjir', 'shaftoli', 'uzum', 'tarvuz', "o'rik"]
+['banan', 'anor', 'anjir', 'ananas', 'shaftoli', 'uzum', 'tarvuz', "o'rik"]
+
+
+
+>>>
+['Nexia 3', 'Malibu', 'Tracker']
+>>>
+
+
+
+['Nexia 3', 'Tracker']
+>>>
+
+
+
+['it', 'mushuk', 'sigir', "qo'y", 'quyon', 'mushuk']
+['it', 'sigir', "qo'y", 'quyon', 'mushuk']
+>>>
+
+
+
+
+["yog'", 'un', 'piyoz', 'banan', "go'sht"]
+>>>
+
+ Men un sotib oldim
+>>>
+
+ Olinmagan mahsulotlar:  ["yog'", 'piyoz', 'banan', "go'sht"]  qoldi.
+["yog'", 'piyoz', 'banan']
+[1200, 1800, 10900, 22000, 3600, 64.2]
+[1200, 1800, 10900, 22000, 3600]
+[3200, 1800, 10900, 22000, 3600]
